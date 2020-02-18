@@ -20,6 +20,8 @@ Create a minor website/web application that connects to the provided API to outp
 
 - A page that allows for the students to be selected via a dropdown. When a student is selected, show their corresponding grades and courses. Format and style the page accordingly.
 
+The API endpoint is as follows http://localhost:57032/api/v1.0/{missingRoute}/{missingRoute}. Please follow the API code to find the missing routes.
+
 What we are looking for:
 
 - Neat, readable code
